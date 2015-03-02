@@ -1,0 +1,19 @@
+{
+  "name": "matty-templates",
+  "version": "0.0.1",
+  "description": "New file templates for brackets",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattymaloney/brackets-templates.git"
+  },
+  "author": "matty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattymaloney/brackets-templates/issues"
+  },
+  "homepage": "https://github.com/mattymaloney/brackets-templates"
+}
